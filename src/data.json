@@ -1,0 +1,47 @@
+{
+    "sizes": [
+        {   
+            "name": "Small", 
+            "price": 2.99
+        },
+        { 
+            "name": "Normal", 
+            "price": 4.99 
+        },
+        { 
+            "name": "Family", 
+            "price": 7.99 
+        }
+      ],
+    "toppings": [
+        { 
+            "name": "Bacon", 
+            "price": 1 
+        },
+        { 
+            "name": "Cheese", 
+            "price": 1 
+        },
+        { 
+            "name": "Tomato", 
+            "price": 1 
+        },
+        { 
+            "name": "Corn", 
+            "price": 1 
+        },
+        { 
+            "name": "Pepperoni", 
+            "price": 1 
+        },
+        { 
+            "name": "Mushroom", 
+            "price": 1 
+        },
+        { 
+            "name": "Salami", 
+            "price": 1 
+        }
+      ]
+
+}
